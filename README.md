@@ -548,7 +548,7 @@ Open the MediaFeedDataModel and add an entity named **CDMediaObject**.
 | Attribute | Type | Extra Configurations |
 |:------:|:------:|:------:|
 | imageData | Binary Data | check **Allows External Storage**, this will save large files outside of Core Data |
-| mediaURL | URI | |
+| videoData | Binary Data | same applies from above for the video data |
 | caption | String | |
 | createdDate | Date | |
 | id | String | |
