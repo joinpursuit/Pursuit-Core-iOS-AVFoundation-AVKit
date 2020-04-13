@@ -5,6 +5,8 @@ Introduction to AVFoundation and AVKit frameworks.
 
 In this lesson we will be building an app that captures video and plays back the content in a **CALayer** or the built-in **AVPlayerViewController**.
 
+![mediafeed app](media-feed-app.png)
+
 ## Objectives 
 
 1. Capture video using UIImagePickerController 
